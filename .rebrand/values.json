@@ -1,0 +1,11 @@
+{
+  "reponame": "new-test-09",
+  "productname": "new-test-09",
+  "productdomain": "test.com",
+  "apibaseurl": "https://api.test.com",
+  "subdomain": "rahulvarghesepullely",
+  "orunWorkspace": "org_92a97ea2dfcc435dafefaf15924b70b3",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
